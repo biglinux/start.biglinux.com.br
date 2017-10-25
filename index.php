@@ -3,7 +3,7 @@
 ?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html lang="<?php echo $lang; ?>">
     <head>
-        <title>Kaiana</title>
+        <title>Big Linux</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
         <!-- fonts -->
@@ -43,7 +43,7 @@
         </div>
         
         <div id="header">
-            <img class="ui medium image" src="logo-kaiana.png" />
+            <img class="ui medium image" src="logo-biglinux.png" />
         </div>
     
         <div id="search">

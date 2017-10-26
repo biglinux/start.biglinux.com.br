@@ -23,7 +23,7 @@ $(function () {
     });
 
     form.on('submit', function () { 
-        window.location.href = "search/" + encodeURI(search.val());
+        window.location.href = "/search/" + encodeURI(search.val());
         return false;
     });
 

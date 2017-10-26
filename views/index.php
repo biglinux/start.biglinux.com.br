@@ -3,7 +3,7 @@
 
 <div class="ui grid">
     <div class="sixteen wide column" id="header">
-        <img class="ui fluid image" src="images/logo-biglinux.png" />
+        <img class="ui fluid image" src="/images/logo-biglinux.png" />
     </div>
 
     <div class="sixteen wide column" id="search">

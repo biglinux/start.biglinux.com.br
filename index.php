@@ -24,6 +24,9 @@
         $api .= "&k1=-1";           # ads
         $api .= "&kv=1";            # page
         $api .= "&kam=google-maps"; # direction
+        $api .= "&ia=web";          # search type
+        $api .= "&kn=1";            # new Window
+        $api .= "&kae=-1";          # theme
 
         Flight::render('search.php', ['api'=>$api, 'keyword'=>$keyword]);
     });

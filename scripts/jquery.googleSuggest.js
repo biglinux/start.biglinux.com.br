@@ -1,8 +1,5 @@
-/**@license
-This file uses Google Suggest for jQuery plugin (licensed under GPLv3) by Haochi Chen ( http://ihaochi.com )
- */
 $.fn.googleSuggest = function(opts){
-  opts = $.extend({service: 'web', secure: false}, opts);
+  opts = $.extend({service: 'web', secure: true}, opts);
 
   var services = {
     youtube: { client: 'youtube', ds: 'yt' },

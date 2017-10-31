@@ -2,7 +2,7 @@
 body { margin:0; padding: 0; font-family: "Open Sans", sans-serif; overflow: hidden; background-color: #fafafa; }
 
     /* menu */
-    #menu { border-radius: 0 !important; }
+    #menu { border-radius: 0 !important; margin: 0; }
     
     /* logo */
     #header { text-align: center; margin: 50px 0 30px 0; }
